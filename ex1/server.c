@@ -3,7 +3,7 @@
 #include <string.h>
 #include <pthread.h>
 
-/* To be written. This file needs to be sumitted to canvas */
+
 
 typedef struct Query {
     char ip[16];
